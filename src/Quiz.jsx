@@ -1,8 +1,8 @@
 import React from 'react'
-import { data } from '../assets/Data';
+import { data } from './assets/Data';
 import { useState } from 'react';
 import { useRef } from 'react';
-import '../index.css'
+import './index.css'
 
 const Quiz = () => {
 
