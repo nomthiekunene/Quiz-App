@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import './index.css';
-import Quiz from './Components/ Quiz';
+import Quiz from './Quiz';
+
+
 
 
 function App() {
