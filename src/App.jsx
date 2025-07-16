@@ -1,6 +1,7 @@
-import { useState } from 'react'
-import './index.css'
-import Quiz from './Components/quiz'
+import { useState } from 'react';
+import './index.css';
+import Quiz from './Components/ Quiz';
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -8,7 +9,7 @@ function App() {
   return (
     <div>
       <>
-   <Quiz/>
+  <Quiz/>
     </>
     </div>
   )
